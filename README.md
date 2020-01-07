@@ -5,13 +5,4 @@
 
 ## Description
 A magical 8 ball app, it will give you the answers to all the tricky questions in life.
-
-## Demo
-| Demo |
-| ---- |
-| ![demo.gif](.screenshots/demo.gif) |
-
-## Other Platforms
-| iOS | Android |
-| ------- | ------- |
-| [![apple_logo.png](.screenshots/apple_logo.png)](https://github.com/fdorado985/magic-8-ball-ios) | [![android_logo.png](.screenshots/android_logo.png)](https://github.com/fdorado985/magic-8-ball-android) |
+Haptivity assignment updated.
