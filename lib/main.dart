@@ -6,7 +6,7 @@ void main() => runApp(
       MaterialApp(
         home: Scaffold(
           appBar: AppBar(
-            title: Text('Magic 8 Ballig'),
+            title: Text('Magic 8 Ball'),
             backgroundColor: Colors.blue[900],
           ),
           backgroundColor: Colors.blue,
